@@ -1,5 +1,8 @@
 # InformationGathering
 Information Gathering Techiques
+## NAME: SANTHOSH T
+## REGISTER NO: 212223220100
+## DEPARTMENT: INFORMATION TECHNOLOGY
 
 # To perform information gathering techniques
 
@@ -24,30 +27,23 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## OUTPUT:
 
 ### WHOIS
-![image](https://github.com/user-attachments/assets/015fee00-e3ca-4a6f-8193-51a891d9dd8c)
-
+![alt text](image.png)
 ### IP2LOCATION
-![image](https://github.com/user-attachments/assets/b8401200-b4de-4522-a447-88a700232863)
-
+![alt text](image-1.png)
 ### WEB ARCHIVE
-![Screenshot 2024-09-16 225342](https://github.com/user-attachments/assets/39bbce70-c8c3-4d0a-aaa9-0d3700c611ca)
+![alt text](<Screenshot 2024-09-16 225342.png>)
 
 ## WEB SERVER FINGERPRINTING
 ### NMAP
-![image](https://github.com/user-attachments/assets/4b6aae58-f38a-4993-ab36-e063be7342a9)
-
+![alt text](image-2.png)
 ### NET CAT
-![image](https://github.com/user-attachments/assets/3b201d5c-23d3-4917-8b9f-b163fce73c14)
-
+![alt text](image-3.png)
 ### WHATWEB
-![image](https://github.com/user-attachments/assets/7c847957-8539-4fa2-8a76-7ed003af0ba2)
-
+![alt text](image-4.png)
 ### HTTPRINT
-![image](https://github.com/user-attachments/assets/7b6b91e8-2032-441b-93c3-fd296e095d4d)
-
+![alt text](image-5.png)
 ### PING
-![Screenshot 2024-09-16 231131](https://github.com/user-attachments/assets/a9e2c467-a154-40d6-909c-72032c7ab64f)
-
+![alt text](<Screenshot 2024-09-16 231131.png>)
 ### TCP TRACEROUTE
 ![Screenshot 2024-09-16 230143](https://github.com/user-attachments/assets/2c58e15b-ec95-4c10-a37d-69386361e02f)
 
